@@ -1,4 +1,4 @@
-#carlos alexis peña contraras
+#carlos alexis peña contreras
 # Pedir el número
 numero = float(input("Ingresa un número: "))
 
